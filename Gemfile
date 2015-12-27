@@ -39,3 +39,4 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'react-rails', '~> 1.5.0'
+gem 'haml'
